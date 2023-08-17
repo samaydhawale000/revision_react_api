@@ -2,12 +2,13 @@
     "register": [
       {
         "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
+        "username": "Samay",
+        "email": "gtatterton0@ehow.com",
+        "avatar": "gtatterton0@ehow.com",
+        "password": 123
       }
     ],
-    
+
     "forum" : [
          {
           "id":1,
